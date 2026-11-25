@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: repostea
+  profiles:
+    default: dev
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate
+
+repostea:
+  carga:
+    radio-defecto-km: 6

@@ -1,0 +1,6 @@
+# Perfil de producción: PostgreSQL. Los datos de conexión llegan por variables de entorno.
+spring:
+  datasource:
+    url: ${DB_URL}
+    username: ${DB_USER}
+    password: ${DB_PASSWORD}

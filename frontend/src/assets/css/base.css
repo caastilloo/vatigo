@@ -1,0 +1,15 @@
+/* Variables de diseño y estilos base de Repostea */
+:root {
+  --verde: #1F8A5B;
+  --ambar: #F2A541;
+  --rojo: #D9534F;
+  --tinta: #1E2A32;
+  --fondo: #F5F7F6;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  color: var(--tinta);
+  background: var(--fondo);
+}
+
+body { margin: 0; }
+.navbar { display: flex; gap: 1.5rem; padding: 1rem 1.5rem; background: #fff; }
+.vista { padding: 1.5rem; }

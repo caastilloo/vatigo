@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-<rect width="64" height="64" rx="16" fill="#1F8A5B"/>
-<path d="M27 12 C27 12 14 28 14 37 a13 13 0 0 0 26 0 C40 28 27 12 27 12Z" fill="#fff"/>
-<path d="M30 25 l-7 14 h6 l-3 11 l11 -16 h-6 l4 -9z" fill="#F2A541"/>
-<circle cx="47" cy="18" r="5" fill="#F2A541"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Vatigo">
+  <rect width="48" height="48" rx="11" fill="#F2B544"/>
+  <path d="M28 5 L12 28 H23 L19 43 L36 18 H25 L30 5Z" fill="#1E1B16"/>
+  <circle cx="21" cy="23" r="1.9" fill="#F2B544"/>
+  <circle cx="27" cy="23" r="1.9" fill="#F2B544"/>
+</svg>

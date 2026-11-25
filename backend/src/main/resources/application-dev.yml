@@ -1,7 +1,7 @@
 # Perfil de desarrollo: base de datos H2 en memoria, no hace falta instalar nada.
 spring:
   datasource:
-    url: jdbc:h2:mem:repostea;MODE=PostgreSQL
+    url: jdbc:h2:mem:vatigo;MODE=PostgreSQL
     username: sa
     password:
   h2:

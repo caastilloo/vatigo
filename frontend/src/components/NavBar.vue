@@ -5,7 +5,7 @@
 
 <template>
   <nav class="navbar">
-    <RouterLink to="/">Repostea</RouterLink>
+    <RouterLink to="/">Vatigo</RouterLink>
     <RouterLink to="/luz">Luz</RouterLink>
     <RouterLink to="/panel">Mi panel</RouterLink>
     <RouterLink to="/alertas">Alertas</RouterLink>

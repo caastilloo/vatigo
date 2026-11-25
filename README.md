@@ -1,4 +1,4 @@
-# Repostea
+# Vatigo
 
 Web app that shows where and when fuel and electricity are cheapest in Spain, using official open data
 from the Ministry (fuel prices of every petrol station) and Red Eléctrica (hourly PVPC electricity price).
@@ -38,16 +38,16 @@ cp .env.example .env   # fill in the values
 docker compose up --build
 ```
 
-In IntelliJ IDEA: open the `backend` folder as a Maven project and run `ReposteaApplication`.
+In IntelliJ IDEA: open the `backend` folder as a Maven project and run `VatigoApplication`.
 
 ## Folder structure
 
 ```
-repostea/
+vatigo/
 ├── backend/                     Spring Boot API
 │   ├── pom.xml
 │   └── src/
-│       ├── main/java/com/repostea/
+│       ├── main/java/com/vatigo/
 │       │   ├── controller/      REST endpoints (receive requests, return JSON)
 │       │   ├── service/         business logic (savings, alerts, data loads)
 │       │   ├── repository/      Spring Data JPA repositories

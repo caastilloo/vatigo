@@ -3,7 +3,7 @@ services:
   db:
     image: postgres:17
     environment:
-      POSTGRES_DB: repostea
+      POSTGRES_DB: vatigo
       POSTGRES_USER: ${DB_USER}
       POSTGRES_PASSWORD: ${DB_PASSWORD}
     volumes:

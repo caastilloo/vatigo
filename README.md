@@ -68,10 +68,16 @@ vatigo/
 │       ├── stores/              Pinia state (session, filters)
 │       ├── router/              routes
 │       └── assets/              CSS and images
-├── docs/                        project documentation
+├── hitos/                       milestone deliverables, one folder per milestone (PDF)
+├── docs/                        brand assets (logo, favicon)
 ├── docker-compose.yml
 └── README.md
 ```
+
+## Milestones
+
+The documents delivered for each milestone are in [`hitos/`](hitos), and the work board is at
+https://github.com/users/caastilloo/projects/2.
 
 ## Author
 
